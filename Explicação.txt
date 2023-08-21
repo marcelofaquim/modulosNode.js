@@ -1,0 +1,2 @@
+Para eu criar um modulo no Node.js, tenho que criar varios arquivos dele na pasta
+Ex: Tenho que dividir o arquivo em varios pedaços

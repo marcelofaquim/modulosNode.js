@@ -1,0 +1,15 @@
+Aula 02: Ensinando a instalar o node.js
+
+Aula 03: Ensinando a usar o Node.JS no CMD
+
+Aula 04: Ensinando a separar arquivos atravas de modulos
+
+Aula 05: Criando um servidor HTTP
+
+Aula 06: Explicando sobre o framework "Express" e ensinando a instalar
+
+Aula 07: Ensinando rotas, ultilizando o Express 
+
+Aula 08: Paramentros
+
+Aula 09:Nodemon = atualiza automaticamente as alterações que eu faço. E eu não preciso reiniciar o servidor toda vez para instalar basta colocar no cmd (npm install nodemon -g). Na hora que for iniciar o seu projeto vai ter que executar com "NODEMON (NOME DO PROJETO.JS)"
